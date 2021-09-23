@@ -1,6 +1,6 @@
 # simple-csv-reader
 Comma separated value file reader, that can preform simple cell arithmetics.
-Example of how input should be structured:
+Example of how input should be structured:\n
 //First column is rows names, represented as any word or letter. First cell is empty
 ,A,B,Cell
 1,9,1,3
