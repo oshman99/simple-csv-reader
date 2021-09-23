@@ -10,7 +10,7 @@ set(READER_SRC
     src/csvMapClass.cpp
     )
 
-configure_file(${CMAKE_CURRENT_SOURCE_DIR}/src/*.csv
+configure_file(${CMAKE_CURRENT_SOURCE_DIR}/src/file.csv
     ${CMAKE_CURRENT_BINARY_DIR} COPYONLY)
 
 #executalbe
