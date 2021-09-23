@@ -1,5 +1,5 @@
 # simple-csv-reader
-Comma separated value file reader, that can preform simple cell arithmetics.
+Comma separated value file reader, that can do so simple cell arithmetics.
 
 Example of how input file should be structured:
 
